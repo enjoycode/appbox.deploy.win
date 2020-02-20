@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "lib"
+    ],
+    "tfm": "netcoreapp2.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "lib"
+    ],
+    "configProperties": {
+      "System.GC.Server": true
+    },
+    "tfm": "netcoreapp2.2"
+  }
+}
