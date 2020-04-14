@@ -1,0 +1,14 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "lib"
+    ],
+    "includedFrameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "3.1.1"
+      }
+    ],
+    "tfm": "netcoreapp3.1"
+  }
+}

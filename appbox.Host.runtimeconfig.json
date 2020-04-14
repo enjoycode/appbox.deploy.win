@@ -1,0 +1,21 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "lib"
+    ],
+    "configProperties": {
+      "System.GC.Server": true
+    },
+    "includedFrameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "3.1.1"
+      },
+      {
+        "name": "Microsoft.AspNetCore.App",
+        "version": "3.1.1"
+      }
+    ],
+    "tfm": "netcoreapp3.1"
+  }
+}
